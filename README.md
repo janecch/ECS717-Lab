@@ -1,2 +1,3 @@
-# ECS717-Lab
-Lab Exercises for Java Programming
+# Chia-Chen MSc Project
+Development and evaluation of cloud-based speech control for the mobile robot
+
