@@ -17,12 +17,12 @@ Development and evaluation of cloud-based speech control for the mobile robot
 <p>- The program only allows the robots to respond to commands coming from the base station.<br /></p>
 
 <h3 id="library">pc-side-elisa3-library</h3>
-<p>- OS Windows 10</p>
+<p>- Running on OS Windows 10</p>
 <p>- The radio module drivers should be installed on the PC. The Link can be found on GCtronic-wiki
 http://www.gctronic.com/doc/index.php/Elisa-3/</p>
 
 <p>- Once the project has been imported in the IDE you should be able to run it.<br />
-   Input number of robots available and their addresses.</p>
+   Input number of robots available and their addresses to connect to the base station.</p>
    
 * * * 
 <h2 id="api">Google Cloud Speech API</h2>
