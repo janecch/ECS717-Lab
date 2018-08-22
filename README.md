@@ -28,7 +28,9 @@ http://www.gctronic.com/doc/index.php/Elisa-3/</p>
 <h2 id="api">Google Cloud Speech API</h2>
 
 <h3 id="micstream">micstreaming.js</h3>
-<p>Using Nodejs to implement microphone streaming
+<p>Using Nodejs to implement the streaming speech recogniton from microphone.<br />
 https://cloud.google.com/speech-to-text/docs/streaming-recognize/</p>
-<p>Follow the instrutions to install Google Cloud Speech API from:
+<p>Follow the instrutions to install Google Cloud Speech API from:<br />
 https://github.com/googleapis/nodejs-speech/</p>
+<p>Using robot.js packet to simulate the keyboard pressing.<br />
+http://getrobot.net/docs/node.html</p>
