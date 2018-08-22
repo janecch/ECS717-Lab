@@ -22,7 +22,7 @@ Development and evaluation of cloud-based speech control for the mobile robot
 http://www.gctronic.com/doc/index.php/Elisa-3/</p>
 
 <p>- Once the project has been imported in the IDE you should be able to run it.<br />
-   Input number of robots available and their addresses to connect to the base station.</p>
+   Input the number of robots and their addresses to connect with the base station.</p>
    
 * * * 
 <h2 id="api">Google Cloud Speech API</h2>
