@@ -28,5 +28,7 @@ http://www.gctronic.com/doc/index.php/Elisa-3/</p>
 <h2 id="api">Google Cloud Speech API</h2>
 
 <h3 id="micstream">micstreaming.js</h3>
-<div>Follow the instrutions to install Google Cloud Speech API from:
-https://github.com/googleapis/nodejs-speech</div>
+<p>Using Nodejs to implement microphone streaming
+https://cloud.google.com/speech-to-text/docs/streaming-recognize/</p>
+<p>Follow the instrutions to install Google Cloud Speech API from:
+https://github.com/googleapis/nodejs-speech/</p>
